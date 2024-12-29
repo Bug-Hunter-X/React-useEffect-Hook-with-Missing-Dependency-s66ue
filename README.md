@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in React applications involving the useEffect hook.  The bug arises from an incorrect dependency array, leading to unnecessary re-renders and potential performance problems. The solution shows how to fix this by correctly specifying the dependencies in the useEffect hook's array.
